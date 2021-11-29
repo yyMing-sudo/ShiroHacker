@@ -16,6 +16,8 @@
 
 ![](img/01.png)
 
+可以使用配套测试环境：https://github.com/EmYiQing/ShiroEnv
+
 和普通`Shiro`工具一样，本工具会首先扫描`key`并输出
 
 然后会用`Shiro`原生反序列化链`CB1`构造`Payload`打过去
